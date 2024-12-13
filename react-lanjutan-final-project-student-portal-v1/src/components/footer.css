@@ -1,0 +1,16 @@
+
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #34495e;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .studentName, .studentId {
+    margin: 5px 0;
+  }
